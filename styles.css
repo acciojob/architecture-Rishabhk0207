@@ -1,1 +1,20 @@
 /*  your css code here. If applicable */
+.one{
+	width:200px;
+}
+.mid{
+	width:600px;
+}
+img{
+	width:200px;
+	height:200px;
+}
+table,tr,td{
+	border: 1px solid black;
+	border-collapse:collapse;
+	text-align:center;
+}
+body{
+	width:1100px;
+	background-color:#CBD7CB;
+}
